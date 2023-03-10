@@ -1,5 +1,5 @@
 # ignore map, miou, datasets
-model_data/yolov7_mobile_mask.pth
+model_data/yolov4_mobile_mask.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

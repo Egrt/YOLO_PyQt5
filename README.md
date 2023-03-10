@@ -3,7 +3,7 @@
  * @Author: Egrt
  * @Date: 2021-05-08 15:27:48
  * @LastEditors: Egrt
- * @LastEditTime: 2023-03-10 18:34:50
+ * @LastEditTime: 2023-03-10 18:49:20
 -->
 ## PyQt5实现目标检测系统搭建——支持多线程
 ---
@@ -21,10 +21,11 @@ PyQt5==5.15.7
 pygame==2.2.0
 
 ## 文件下载
-训练所需的权值可在百度网盘中下载。   
-链接: https://pan.baidu.com/s/1gSC4jYYpMfWl90zTK0dI4w    
-提取码: x39a     
+模型权重下载后放入**model_data**文件夹中
+
+[yolov4_mobile_mask.pth](https://github.com/Egrt/YOLO_PyQt5/releases/download/V1.0/yolov7_mobile_mask.pth)
 
 ## 运行
 运行根目录下**main.py**启动界面：
-![](maskimg/demo.png)
+
+![](maskimg\demo.png)

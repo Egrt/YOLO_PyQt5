@@ -26,7 +26,7 @@ from utils.utils import (DecodeBox, bbox_iou, letterbox_image,
 #--------------------------------------------#
 class YOLO(object):
     _defaults = {
-        "model_path"        : 'model_data/yolov7_mobile_mask.pth',
+        "model_path"        : 'model_data/yolov4_mobile_mask.pth',
         "anchors_path"      : 'model_data/yolo_anchors.txt',
         "classes_path"      : 'model_data/voc_classes.txt',
         "backbone"          : 'mobilenetv3',
