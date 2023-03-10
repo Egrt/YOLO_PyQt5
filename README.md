@@ -3,7 +3,7 @@
  * @Author: Egrt
  * @Date: 2021-05-08 15:27:48
  * @LastEditors: Egrt
- * @LastEditTime: 2023-03-10 18:49:20
+ * @LastEditTime: 2023-03-10 19:02:03
 -->
 ## PyQt5实现目标检测系统搭建——支持多线程
 ---
@@ -28,4 +28,4 @@ pygame==2.2.0
 ## 运行
 运行根目录下**main.py**启动界面：
 
-![](maskimg\demo.png)
+![界面演示](maskimg/demo.png)
